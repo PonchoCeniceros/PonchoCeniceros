@@ -1,6 +1,6 @@
 
-### @PonchoCeniceros*
-**Web developer**, Engineering manager, Research assistant and prototyping technician
+#### @PonchoCeniceros
+_**Web developer**, Engineering manager, Research assistant and prototyping technician_
 
 * Development of iOS and Android web and mobile platforms for electronic equipment specialized in IoT, in addition to the development of software tools for internal company use.
 * Design and implementation of a Firmware to control an array of multimeters to obtain current-voltage curves in solar cells of nanometric thickness. in addition to the development of prototypes based on embedded systems to measure electrical properties of various materials, and design, manufacture, programming and testing of data acquisition systems.
