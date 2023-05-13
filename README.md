@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @PonchoCeniceros, rookie developer 👨‍💻
-- 👀 I’m interested in programming teaching, different kinds of programming paradigms, coding competitions, Machine Learning, Data Science and web development.
-- 🌱 I’m currently learning about backend development (REST, MVC, Web servers), Machine Learning (GAN, aplied NN models) and Data Science techniques (clustering, recommendation systems).
-- 💞️ I’m looking to collaborate on tech startups and universities as programming teacher.
-- 📫 How to reach me: gio.icc.uach@gmail.com
+
+### @PonchoCeniceros*
+**Web developer**, Engineering manager, Research assistant and prototyping technician
+
+* Development of iOS and Android web and mobile platforms for electronic equipment specialized in IoT, in addition to the development of software tools for internal company use.
+* Design and implementation of a Firmware to control an array of multimeters to obtain current-voltage curves in solar cells of nanometric thickness. in addition to the development of prototypes based on embedded systems to measure electrical properties of various materials, and design, manufacture, programming and testing of data acquisition systems.
+* Coordinate the Engineering department in the testing and development of prototypes and products, as well as evaluate and follow up on the action plans defined by management for the company's projects.
+
+📧 **ponchoceniceros@outlook.com**
 
 <!---
 PonchoCeniceros/PonchoCeniceros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
