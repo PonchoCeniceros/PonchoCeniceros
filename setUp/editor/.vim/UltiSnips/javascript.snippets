@@ -37,7 +37,7 @@ endsnippet
 #                                                                                    
 snippet cf "() {}" b
 $1 ($2) {
-		$3
+ $3
 }
 endsnippet
 #                  _       _     _           
@@ -48,7 +48,7 @@ endsnippet
 #                                            
 snippet arr "= []" b
 const $1 = [
-		$2
+ $2
 ];
 endsnippet
 
@@ -67,13 +67,13 @@ endsnippet
 #                                                                            
 snippet fn "() => {}" i
 const $1 = ${2:($3)} => ${4:{
-  $5
+ $5
 }};
 endsnippet
 
 snippet clb "() => {}" i
 ${2:($3)} => ${4:{
-  $5
+ $5
 }}
 endsnippet
 #                      _                                                      _       
@@ -85,11 +85,11 @@ endsnippet
 #
 snippet rfc "React function component" 
 const $1 = ${2:($3)} => {
-		return (
-				<$4>
-						$5
-				</$4>
-		);
+ return (
+  <$4>
+   $5
+  </$4>
+ );
 };
 
 export default $1;
@@ -97,11 +97,11 @@ endsnippet
 
 snippet rnfc "React nextjs function component" b
 export default function $1(${2:($3)}) {
-		return (
-				<$4>
-						$5
-				</$4>
-		);
+ return (
+  <$4>
+   $5
+  </$4>
+ );
 };
 endsnippet
 
@@ -109,13 +109,13 @@ snippet rcc "React class component" b
 import { Component } from 'react';
 
 class $1 extends Component {
-		render() {
-				return (
-						<div>
-								${2:// here...}
-						</div>
-				);
-		}
+ render() {
+  return (
+   <div>
+    ${2:// here...}
+		 </div>
+  );
+ }
 };
 
 export default $1;
@@ -131,16 +131,15 @@ snippet uses "const [] = useState" b
 const [$1] = useState($2);
 endsnippet
 
-
 snippet usee "useEffect(...)" b
 useEffect(() => {
-		$1
+ $1
 }$2);
 endsnippet
 
 
 snippet retf "() => {}" b
 return () => {
-		$1
+ $1
 };
 endsnippet

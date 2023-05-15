@@ -40,9 +40,76 @@ and for Python:
 :CocInstall coc-pyright
 ```
 
+## Shortcuts & Commands
+
+#### Generals
+| cmd                | description                             |
+|--------------------|-----------------------------------------|
+| <space>q           | close tab/window                        |
+| <space>w           | save file                               |
+| <space>,           | put ; at the end                        |
+| nt                 | open tree sidebar                       |
+
+#### Tabs
+| cmd                | description                             |
+|--------------------|-----------------------------------------|
+| <space>z           | open new tab                            |
+| <space>h           | move to next tab                        |
+| <space>l           | move to previous tab                    |
+
+#### Documentation
+| cmd                | description                             |
+|--------------------|-----------------------------------------|
+| K                  | show documentation                      |
+| <space>fh          | find into documentation                 |
+
+#### go to...
+| cmd                | description                             |
+|--------------------|-----------------------------------------|
+| gd                 | go to the definition file               |
+| gr                 | go to references inside the file        |
+
+#### find or replace
+| cmd                | description                             |
+|--------------------|-----------------------------------------|
+| <space>ff          | find an specific file                   |
+| <space>fg          | find a match into files                 |
+| /{text}            | find **text** ocurrences                |
+| n                  | next ocurrence                          |
+| N                  | previous ocurrence                      |
+| :%s/{ptn}/{str}/g  | change **ptn** by **str** in whole file |
+| :%s/{ptn}/{str}/gc | confirm each substitution               |
+
+#### **snippets**
+| cmd                | description                             |
+|--------------------|-----------------------------------------|
+| {snippet}<tab>     | generate **snippet** on file            |
+| <space>c           | move to next snippet param              |
+| <space>x           | move to previous snippet param          |
+
+
 ## Snippets 📜
-you can use snippets for the referenced lnguages on  ```UltiSnips/reference.md``` using tab,
-and using ```SPACE c``` for fill next snippet param and ```SPACE x``` for skip back prevous snippet param
+
+#### **** Javascript
+| snippet    | description                         |
+|------------|-------------------------------------|
+| ```log```  | console.log()                       |
+| ```err```  | console.err()                       |
+| ```dir```  | console.dir()                       |
+| ```imp```  | import from ''                      |
+| ```ed ```  | export default ''                   |
+| ```cf ```  | control scructure (if, for, etc...) |
+| ```arr```  | declarate arrays                    |
+| ```des```  | destructuring on object             |
+| ```desa``` | destructuring on array              |
+| ```fn ```  | arrow function                      |
+| ```clb```  | arrow function as callback          | 
+| ```rfc```  | react functional component          |
+| ```rnfc``` | netjs functional component          |
+| ```rcc```  | react class component               |
+| ```uses``` | react useState hook                 |
+| ```usee``` | react useEffect hook                |
+| ```retf``` | unmounting function for useEffect   |
 
 ## Themes 🎨
 
