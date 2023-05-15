@@ -43,54 +43,54 @@ and for Python:
 ## Shortcuts & Commands
 
 #### Generals
-| cmd                | description                             |
-|--------------------|-----------------------------------------|
-| <space>q           | close tab/window                        |
-| <space>w           | save file                               |
-| <space>,           | put ; at the end                        |
-| nt                 | open tree sidebar                       |
+| cmd                     | description                             |
+|-------------------------|-----------------------------------------|
+|```<space>q```           | close tab/window                        |
+|```<space>w```           | save file                               |
+|```<space>,```           | put ; at the end                        |
+|```nt```                 | open tree sidebar                       |
 
 #### Tabs
-| cmd                | description                             |
-|--------------------|-----------------------------------------|
-| <space>z           | open new tab                            |
-| <space>h           | move to next tab                        |
-| <space>l           | move to previous tab                    |
-
+| cmd                      | description                             |
+|--------------------------|-----------------------------------------|
+| ```<space>z```           | open new tab                            |
+| ```<space>h```           | move to next tab                        |
+| ```<space>l```           | move to previous tab                    |
+  
 #### Documentation
-| cmd                | description                             |
-|--------------------|-----------------------------------------|
-| K                  | show documentation                      |
-| <space>fh          | find into documentation                 |
+| cmd                      | description                             |
+|--------------------------|-----------------------------------------|
+| ```K```                  | show documentation                      |
+| ```<space>fh```          | find into documentation                 |
 
 #### go to...
-| cmd                | description                             |
-|--------------------|-----------------------------------------|
-| gd                 | go to the definition file               |
-| gr                 | go to references inside the file        |
+| cmd                      | description                             |
+|--------------------------|-----------------------------------------|
+| ```gd```                 | go to the definition file               |
+| ```gr```                 | go to references inside the file        |
 
 #### find or replace
-| cmd                | description                             |
-|--------------------|-----------------------------------------|
-| <space>ff          | find an specific file                   |
-| <space>fg          | find a match into files                 |
-| /{text}            | find **text** ocurrences                |
-| n                  | next ocurrence                          |
-| N                  | previous ocurrence                      |
-| :%s/{ptn}/{str}/g  | change **ptn** by **str** in whole file |
-| :%s/{ptn}/{str}/gc | confirm each substitution               |
+| cmd                      | description                             |
+|--------------------------|-----------------------------------------|
+| ```<space>ff```          | find an specific file                   |
+| ```<space>fg```          | find a match into files                 |
+| ```/{text}```            | find **text** ocurrences                |
+| ```n```                  | next ocurrence                          |
+| ```N```                  | previous ocurrence                      |
+| ```:%s/{ptn}/{str}/g```  | change **ptn** by **str** in whole file |
+| ```:%s/{ptn}/{str}/gc``` | confirm each substitution               |
 
 #### **snippets**
-| cmd                | description                             |
-|--------------------|-----------------------------------------|
-| {snippet}<tab>     | generate **snippet** on file            |
-| <space>c           | move to next snippet param              |
-| <space>x           | move to previous snippet param          |
+| cmd                      | description                             |
+|--------------------------|-----------------------------------------|
+| ```{snippet}<tab>```     | generate **snippet** on file            |
+| ```<space>c```           | move to next snippet param              |
+| ```<space>x```           | move to previous snippet param          |
 
 
 ## Snippets 📜
 
-#### **** Javascript
+#### **Javascript**
 | snippet    | description                         |
 |------------|-------------------------------------|
 | ```log```  | console.log()                       |
