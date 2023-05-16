@@ -48,7 +48,13 @@ and for Python:
 |```<space>q```           | close tab/window                        |
 |```<space>w```           | save file                               |
 |```<space>,```           | put ; at the end                        |
-|```nt```                 | open tree sidebar                       |
+
+#### ```NERDTree``` sidebar
+| cmd                   | description                                                                                                                                                                                                                                                                                                                                                                            |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| nt                    | open tree sidebar                                                                                                                                                                                                                                                                                                                                                                      |
+| ```m``` over NERDTree | bring up the NERDTree Filesystem Menu                                                                                                                                                                                                                                                                                                                                                  |
+|                       | ```(a)```dd a childnode<br>```(m)```ove the current node<br>```(d)```elete the current node<br>```(r)```eveal in Finder the current node<br>```(0)```pen the current node with system editor<br>```(q)```uicklook the current node<br>```(c)```opy the current node<br>copy ```(p)```ath to clipboard<br>```(l)```ist the current node<br>Run ```(s)```ystem command in this directory |
 
 #### Tabs
 | cmd                      | description                             |
@@ -86,7 +92,6 @@ and for Python:
 | ```{snippet}<tab>```     | generate **snippet** on file            |
 | ```<space>c```           | move to next snippet param              |
 | ```<space>x```           | move to previous snippet param          |
-
 
 ## Snippets 📜
 
