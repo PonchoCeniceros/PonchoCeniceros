@@ -137,9 +137,27 @@ useEffect(() => {
 }$2);
 endsnippet
 
-
 snippet retf "() => {}" b
 return () => {
  $1
 };
+endsnippet
+#
+#  ____  _                   _                 _
+# / ___|| |_ ___  _ __ _   _| |__   ___   ___ | | __
+# \___ \| __/ _ \| '__| | | | '_ \ / _ \ / _ \| |/ /
+#  ___) | || (_) | |  | |_| | |_) | (_) | (_) |   <
+# |____/ \__\___/|_|   \__, |_.__/ \___/ \___/|_|\_\
+#                      |___/
+#
+snippet stb "Storybook component" b
+const page = {
+ component: $1,
+ title: '$2'
+}
+
+export default page;
+export const $1Component = args => <$1 {...args}/>;
+
+$1Component.args = {$3};
 endsnippet

@@ -121,12 +121,17 @@ and for Python:
 #### **react/nextjs**
 | snippet    | description                               |
 |------------|-------------------------------------------|
-| ```rfc```  | react functional component                |
-| ```rnfc``` | nextjs functional component               |
-| ```rcc```  | react class component                     |
-| ```uses``` | react ```useState``` hook                 |
+| ```rfc```  | **react** functional component            |
+| ```rnfc``` | **nextjs** functional component           |
+| ```rcc```  | **react** class component                 |
+| ```uses``` | **react** ```useState``` hook             |
 | ```usee``` | react ```useEffect``` hook                |
 | ```retf``` | unmounting function for ```useEffect```   |
+
+#### **storybook**
+| snippet    | description                               |
+|------------|-------------------------------------------|
+| ```stb```  | make **Storybook** config for a component |
 
 ## Themes 🎨
 
