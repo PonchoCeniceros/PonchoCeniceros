@@ -49,12 +49,20 @@ and for Python:
 |```<space>w```           | save file                               |
 |```<space>,```           | put ; at the end                        |
 
+#### splits
+| cmd            | description                                                    |
+|----------------|----------------------------------------------------------------|
+| ```<ctrl>wh``` | moves the active split to a full-height split across the left  |
+| ```<ctrl>wj``` | moves the active split to a full-width split across the bottom |
+| ```<ctrl>wk``` | moves the active split to a full-width split across the top    |
+| ```<ctrl>wl``` | moves the active split to a full-height split across the right |
+
 #### ```NERDTree``` sidebar
 | cmd                   | description                                                                                                                                                                                                                                                                                                                                                                            |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nt                    | open tree sidebar                                                                                                                                                                                                                                                                                                                                                                      |
 | ```m``` over NERDTree | bring up the NERDTree Filesystem Menu                                                                                                                                                                                                                                                                                                                                                  |
-|                       | ```(a)```dd a childnode<br>```(m)```ove the current node<br>```(d)```elete the current node<br>```(r)```eveal in Finder the current node<br>```(0)```pen the current node with system editor<br>```(q)```uicklook the current node<br>```(c)```opy the current node<br>copy ```(p)```ath to clipboard<br>```(l)```ist the current node<br>Run ```(s)```ystem command in this directory |
+|                       | ```(a)```dd a childnode<br>```(m)```ove the current node<br>```(d)```elete the current node<br>```(r)```eveal in Finder the current node<br>```(o)```pen the current node with system editor<br>```(q)```uicklook the current node<br>```(c)```opy the current node<br>copy ```(p)```ath to clipboard<br>```(l)```ist the current node<br>Run ```(s)```ystem command in this directory |
 
 #### Tabs
 | cmd                      | description                             |
