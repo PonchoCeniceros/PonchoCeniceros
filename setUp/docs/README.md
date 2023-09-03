@@ -8,6 +8,6 @@
 El presente proyecto ...
 
 ## Documentación 🗃️
-### [API](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/api)
-### [Aplicación Web](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/app)
-### [Aplicación Móvil](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/mobile)
+### [API](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/docs/api)
+### [Aplicación Web](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/docs/app)
+### [Aplicación Móvil](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/docs/mobile)
