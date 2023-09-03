@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PonchoCeniceros/blob/main/public/docs/imgs/logo.png">
+  <img src="https://github.com/PonchoCeniceros/blob/main/public/setUp/docs/imgs/logo.png">
 </p>
 
 # Nombre del Proyecto
@@ -8,7 +8,7 @@
 El presente proyecto ...
 
 <p align="center">
-  <img src="https://github.com/PonchoCeniceros/blob/main/public/docs/imgs/cover.png">
+  <img src="https://github.com/PonchoCeniceros/blob/main/public/setUp/docs/imgs/cover.png">
 </p>
 
 ## Documentación 🗃️
