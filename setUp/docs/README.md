@@ -12,7 +12,6 @@ El presente proyecto ...
 </p>
 
 ## Documentación 🗃️
-### [API](https://github.com/PonchoCeniceros/app-de-sincronizacion-SAP-SHIPEDGE/blob/main/docs/api)
-### [Middlewares](https://github.com/PonchoCeniceros/app-de-sincronizacion-SAP-SHIPEDGE/blob/main/docs/middlewares)
-### [Features](https://github.com/PonchoCeniceros/app-de-sincronizacion-SAP-SHIPEDGE/blob/main/docs/features)
-### [Errores](https://github.com/PonchoCeniceros/app-de-sincronizacion-SAP-SHIPEDGE/blob/main/docs/error)
+### [API](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/api)
+### [Aplicación Web](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/app)
+### [Aplicación Móvil](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/mobile)
