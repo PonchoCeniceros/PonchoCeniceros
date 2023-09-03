@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/docs/imgs/logox.png">
-</p>
 
 # Nombre del Proyecto
-
-## Introducción
-El presente proyecto ...
-
 <p align="center">
   <img src="https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/docs/imgs/cover.png">
 </p>
+
+## Introducción
+El presente proyecto ...
 
 ## Documentación 🗃️
 ### [API](https://github.com/PonchoCeniceros/PonchoCeniceros/blob/main/setUp/docs/api)
