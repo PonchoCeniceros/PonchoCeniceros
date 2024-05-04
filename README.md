@@ -1,6 +1,4 @@
-* Development of iOS and Android web and mobile platforms for electronic equipment specialized in IoT, in addition to the development of software tools for internal company use.
-* Design and implementation of a Firmware to control an array of multimeters to obtain current-voltage curves in solar cells of nanometric thickness. in addition to the development of prototypes based on embedded systems to measure electrical properties of various materials, and design, manufacture, programming and testing of data acquisition systems.
-* Coordinate the Engineering department in the testing and development of prototypes and products, as well as evaluate and follow up on the action plans defined by management for the company's projects.
+Apasionado de la programación. Durante mi carrera universitaria he explorado diferentes caminos desde la administración de organizaciones estudiantiles, tutorías, talleres y competencias de programación hasta la programación de sistemas embebidos en el acondicionamiento de maquinas para su uso en laboratorios de pruebas químicas y el adquisición por medio de sensores de parámetros bioquímicos para la detección no invasiva de padecimientos, ademas de un poco de experiencia en la industria y participando en competencias de lean manufacturing.
 
 📧 **ponchoceniceros@outlook.com**
 <!---
